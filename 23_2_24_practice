@@ -11,3 +11,9 @@ Ans- 20 days are 28800 minutes
 #latest addition to python and works with the newer python is addition of {} bracs rather than just writing + and str commands
 print(f"20 days are {20*24*60} minutes")
 Ans- 20 days are 28800 minutes
+
+practice for the same:
+print(f"30 days are{30*24*60}minutes")
+Ans- 30 days are43200minutes
+
+print(f"30 days are {30*24*60} minutes")
