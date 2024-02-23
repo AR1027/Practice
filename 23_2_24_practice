@@ -1,5 +1,8 @@
 print(20*24*60)
+Ans- 28800
+
 print("20 days are" + str(20*24*60) + "minutes")
+Ans- 20 days are28800minutes
 print("20 days are " + str(20*24*60) + " minutes")
 
 #much cooler way of writing the above code is as follows:
