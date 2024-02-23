@@ -17,3 +17,4 @@ print(f"30 days are{30*24*60}minutes")
 Ans- 30 days are43200minutes
 
 print(f"30 days are {30*24*60} minutes")
+Ans- 30 days are 43200 minutes
