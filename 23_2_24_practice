@@ -1,1 +1,9 @@
+print(20*24*60)
+print("20 days are" + str(20*24*60) + "minutes")
+print("20 days are " + str(20*24*60) + " minutes")
+
+#much cooler way of writing the above code is as follows:
+#latest addition to python and works with the newer python on;y:
+
+print(f"20 days are {20*24*60} minutes")
 
